@@ -18,4 +18,4 @@ test data set to predict the probability that a new university is private or pub
 confusion matrix to assess the performance of my model. The accuracy of my test data set was good as well 
 by 0.93. the ROC curve indicated good performance since the curves were closer to the top-left corner. 
 The result of the area under the ROC curve is 0.97. when the result is between 0.9-1, we can consider that 
-the performance is excellent
+the performance is excellent.
